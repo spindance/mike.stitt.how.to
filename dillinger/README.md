@@ -26,7 +26,7 @@ mkdir tryDillinger
 cd tryDillinger
 ````
 
-Then from following the instructions from https://github.com/joemccann/dillinger
+Then following the instructions from https://github.com/joemccann/dillinger
 
 ````
 npm i -g gulp
